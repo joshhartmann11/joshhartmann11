@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @joshhartmann11
+- 👀 I’m interested in firmware and embedded systems
+- 📫 Reach me at joshhartmann11@gmail.com
